@@ -3,5 +3,5 @@ if(a>0);
 print"positive"
 else if(a<0);
 print"negative"
-else
+else if(a=0);
 print"zero"
