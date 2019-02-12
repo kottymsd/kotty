@@ -1,7 +1,7 @@
-a=raw_input("ENTER THE NUMBER")
+b=raw_input("NUMBER")
 if(a>0);
-print"positive"
-else if(a<0);
-print"negative"
-else if(a=0);
+print"is positive"
+else if(b<0);
+print"is negative"
+else if(b=0);
 print"zero"
